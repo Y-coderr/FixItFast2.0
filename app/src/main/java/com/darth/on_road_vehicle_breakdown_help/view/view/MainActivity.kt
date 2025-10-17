@@ -95,7 +95,7 @@ class MainActivity : AppCompatActivity() {
 
                 when (fragment) {
                     is HomeFragment -> {
-                        // Something for HomeFragment?
+                        // no need
                     }
                     is RescueFragment -> {
                         // Set data to the bundle
@@ -110,7 +110,7 @@ class MainActivity : AppCompatActivity() {
                         bundle.putString("dataDescribeProblem", dataDescribeProblem)
                     }
                     is NotificationFragment -> {
-                        // Do something for NotificationFragment
+                        // needs to be implemented
                     }
                     is SettingsFragment -> {
                         // Do something for SettingsFragment

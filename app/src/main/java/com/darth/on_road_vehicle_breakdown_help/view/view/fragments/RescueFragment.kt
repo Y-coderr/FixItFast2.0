@@ -24,7 +24,6 @@ import androidx.appcompat.R
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import androidx.localbroadcastmanager.content.LocalBroadcastManager
 import com.darth.on_road_vehicle_breakdown_help.databinding.FragmentRescueBinding
 import com.darth.on_road_vehicle_breakdown_help.view.model.Place
 import com.darth.on_road_vehicle_breakdown_help.view.model.Rescue
